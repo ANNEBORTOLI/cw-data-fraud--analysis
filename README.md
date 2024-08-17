@@ -1,8 +1,8 @@
-# Data Analysis for Credit Card Transactions
+# :notebook_with_decorative_cover: Data Analysis for Credit Card Transactions
 
 This project is a Data Analysis of hypothetical transactional data with the objective of creating a AI model to identify fraudulent transactions.
 
-## Project Details
+## :notebook_with_decorative_cover: Project Details
 
 - **transaction_analysis.ipynb**: An overall analizes of the data looking for patterns.
 
@@ -10,12 +10,12 @@ This project is a Data Analysis of hypothetical transactional data with the obje
 
 - **transaction_model_v2.ipynb**: Model that breaks down the 'transaction_date' column in 'day_of_week' and 'hour_of_day' columns. The purpose is to increase the model accuracy. ROC AUC Score: 0.9118684794841379.
 
-## Technologies
+## 🛠️ Technologies
 
 - Python 3.12.1
 - Jupyter Notebook
 
-## General instructions
+## 📑 General instructions
 
 1. Clone git repository
 
